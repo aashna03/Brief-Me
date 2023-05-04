@@ -1,0 +1,4 @@
+2nd February 2023 -3rd February 2023 : Start of the 1st version of the project. The objective was to transribe a mp3 file and summarize it's data.
+5th February 2023 - 6th February 2023 : Modified the project so it can live record and then transcribe the recorded file and then summarize.
+4th May 2023 : Created github repository for the project.
+5th May 2023 : Uploaded the first version of the project in python using whisper library in which can record, transcibe and summarize the text.
